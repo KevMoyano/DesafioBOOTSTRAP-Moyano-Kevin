@@ -13,3 +13,26 @@ body {
 }
 
 
+.ul-nav {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.size-navlink {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    
+}
+.size-navlink:hover {
+    font-size: 20px;
+    font-weight: bold;
+    color: #00b8ff;
+    
+}
+.filtro-img-varias:hover{
+ filter: blur(1px);
+ border: solid black 1px;
+}
+.estilo-imgaside {
+    border-radius: 30px;
+}
