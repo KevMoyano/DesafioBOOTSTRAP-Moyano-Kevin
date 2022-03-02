@@ -1,0 +1,13 @@
+body {
+    background-image: url(./img/body.jfif);
+    background-attachment: fixed;
+}
+.ul-redes {
+    list-style: none;
+}
+.a-redes{
+    margin: 5px;
+}
+.img-redes {
+    width: 30px;
+}
