@@ -26,8 +26,7 @@ body {
 .size-navlink:hover {
     font-size: 20px;
     font-weight: bold;
-    color: #00b8ff;
-    
+    color: #00b8ff;   
 }
 .filtro-img-varias:hover{
  filter: blur(1px);
@@ -35,4 +34,9 @@ body {
 }
 .estilo-imgaside {
     border-radius: 30px;
+}
+
+.iframe{
+    width: 600px;
+    height: 380px;
 }
