@@ -20,14 +20,14 @@ body {
 .size-navlink {
     font-size: 20px;
     font-weight: bold;
-    color: white;
-    
+    color: white;   
 }
 .size-navlink:hover {
     font-size: 20px;
     font-weight: bold;
     color: #00b8ff;   
 }
+
 .filtro-img-varias:hover{
  filter: blur(1px);
  border: solid black 1px;
@@ -40,3 +40,4 @@ body {
     width: 600px;
     height: 380px;
 }
+
