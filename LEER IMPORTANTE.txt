@@ -1,0 +1,4 @@
+Se implementaron los parrafos faltantes en las noticias para mejorar el SEO
+Se implementaron Keywords y Descriptions en cada una de las paginas para mejor el SEO
+Se implemento una nueva pagina con una breve Hsitoria del Club
+Se utilizaron los diferentes conceptos aprendidos a lo largo del curso. como HTML,CSS,SASS,GIT, BOOTSTRAP, ETC.
